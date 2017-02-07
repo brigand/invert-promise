@@ -1,0 +1,13 @@
+{
+  "name": "invert-promise",
+  "version": "0.0.0",
+  "description": "if the promise resolves, reject, else resolve",
+  "main": "index.js",
+  "repository": "git@github.com:brigand/invert-promise.git",
+  "author": "Frankie Bagnardi <f.bagnardi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "scripts": {"test": "tape test.js"}
+}

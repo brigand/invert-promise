@@ -1,6 +1,6 @@
 {
   "name": "invert-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "if the promise resolves, reject, else resolve",
   "main": "index.js",
   "repository": "git@github.com:brigand/invert-promise.git",
@@ -9,5 +9,7 @@
   "devDependencies": {
     "tape": "^4.6.3"
   },
-  "scripts": {"test": "tape test.js"}
+  "scripts": {
+    "test": "tape test.js"
+  }
 }
